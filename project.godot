@@ -13,3 +13,7 @@ config_version=5
 config/name="Sobreviva"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=480
